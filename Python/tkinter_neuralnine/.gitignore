@@ -1,2 +1,5 @@
-# Ignore any .idea files
+# Ignore the virtual environment
+venv
+
+# Ignore the .idea folder
 .idea
